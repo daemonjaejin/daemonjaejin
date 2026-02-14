@@ -95,5 +95,5 @@ Linux(CentOS/Rocky), Grafana, Kibana, ELK Stack
 
 ## 🔗 Links
 
-* GitHub: https://github.com/your-id
-* Email: [your@email.com](mailto:your@email.com)
+* GitHub: https://github.com/daemonjaejin
+* Email: [starcx@naver.com]
