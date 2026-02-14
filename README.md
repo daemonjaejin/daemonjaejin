@@ -99,6 +99,17 @@ Kafka 기반 로그/메트릭 파이프라인 아키텍처입니다.
 
 ![observability-architecture](./architecture/ChatGPT%20Image%202026%EB%85%84%202%EC%9B%94%2014%EC%9D%BC%20%EC%98%A4%ED%9B%84%2012_34_17.png)
 
+## 🚀 Personal Projects
+
+### Netty Event Driven Server
+Production-style Netty async server/client architecture example.
+
+- Async TCP server/client with ChannelPipeline
+- Framing (LengthFieldBasedFrameDecoder), JSON protocol
+- Heartbeat, reconnect, TLS/mTLS experimentation
+
+👉 https://github.com/daemonjaejin/netty-event-server
+
 
 ## 🔗 Links
 
